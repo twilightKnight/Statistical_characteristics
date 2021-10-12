@@ -6,7 +6,7 @@
 + Установить командой ниже
 
 ```sh
-pip install 'path_to_directory'\statistical_charasteristics\dist\statistical_characteristics-0.0.1-py3-none-any.whl
+pip install 'path_to_files'\statistical_charasteristics\dist\statistical_characteristics-0.0.1-py3-none-any.whl
 ```
 + импортировать смешным методом
 
