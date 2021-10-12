@@ -1,0 +1,8 @@
+setup.py
+statistical_characteristics/__init__.py
+statistical_characteristics/statistical_characteristics.py
+statistical_characteristics.egg-info/PKG-INFO
+statistical_characteristics.egg-info/SOURCES.txt
+statistical_characteristics.egg-info/dependency_links.txt
+statistical_characteristics.egg-info/requires.txt
+statistical_characteristics.egg-info/top_level.txt
