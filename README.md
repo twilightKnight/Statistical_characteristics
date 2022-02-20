@@ -1,33 +1,32 @@
-# Статистические характеристики для лаб
+# Statical characteristics
 
-## Что делать?????
+## Installation
 
-+ Скачать файлики с вирусами
-+ Установить командой ниже
++ Download and unpack files
++ Install with the command below
 
 ```sh
 pip install 'path_to_files'\statistical_charasteristics\dist\statistical_characteristics-0.0.1-py3-none-any.whl
 ```
-+ импортировать смешным методом
++ import 
 
 ```sh
 from statistical_characteristics.statistical_characteristics import StaticalCharacteristic
 ```
 
-+ ???
-+ profit
++ Done!
 
-## А как использовать-то???
+## Using:
 
-+ Инициализировать класс сравниваемыми данными
++ Initialise class with needed data
 ```
 tmp = StaticalCharacteristic(data1, data2)
 ```
-+ Попросить посчитать метрику
++ Use one of provided functions to calculate the coefficient
 ```sh
 what_i_need = tmp.normalised_average_absolute_difference()
 ```
-## А какие есть метрики у тебя-то???
+## Implemented coefficiens
 + maximum_difference()
 + average_absolute_difference()
 + normalised_average_absolute_difference()
